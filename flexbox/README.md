@@ -3,7 +3,7 @@
 Welcome to the Flexbox tasks repository! Here you'll find tasks that demonstrate various uses of Flexbox for layout design.
 ---
 
-## Description:bulb:
+## Description :bulb:
 Different possible properties using CSS Flexbox layout
 
 * What is Flexbox?
@@ -16,7 +16,7 @@ Different possible properties using CSS Flexbox layout
 
 ---
 
-## Resources:books:
+## Resources :books:
 Read or watch:
 * [A complete Guide to Flexbox | CSS-Tricks] (https://intranet.hbtn.io/rltoken/L8LGfjgBbkWIFn1iRr8fHQ)
 * [Flexbox Froggy - A game for learning CSS flexbox] (https://intranet.hbtn.io/rltoken/wrW7jiGsqCenlUwTEyDj8A)
