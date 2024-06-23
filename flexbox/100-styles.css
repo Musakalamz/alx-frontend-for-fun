@@ -791,7 +791,7 @@ ul.row {
   height: auto;
 }
 
-.post-content:first-child {
+.post-content + p {
   font-size: var(--font-size-x-large);
 }
 
