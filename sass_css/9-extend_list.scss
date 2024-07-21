@@ -1,0 +1,18 @@
+// 9. Extended
+%font_size {
+  font-size: 12px;
+}
+
+.info {
+  @extend %font_size;
+}
+
+.success {
+  color: #00ff00;
+  @extend .info;
+}
+
+.warning {
+  color: #ff0000;
+  @extend .info;
+}
